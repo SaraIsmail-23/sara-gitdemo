@@ -1,4 +1,4 @@
-#This is a py file = comment
+#This is a py file = a comment
 import sara_scrap_function
 
 def get_titles():
